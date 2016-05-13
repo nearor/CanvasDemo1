@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Layer</string>
+    <string name="clean">清理桌面</string>
 </resources>

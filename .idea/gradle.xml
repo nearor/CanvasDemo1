@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/instrument" />
             <option value="$PROJECT_DIR$/layer" />
+            <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/simpledraw" />
           </set>
         </option>
         <option name="myModules">
@@ -20,6 +22,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/instrument" />
             <option value="$PROJECT_DIR$/layer" />
+            <option value="$PROJECT_DIR$/myapp" />
+            <option value="$PROJECT_DIR$/simpledraw" />
           </set>
         </option>
       </GradleProjectSettings>

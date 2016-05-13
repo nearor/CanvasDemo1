@@ -1,1 +1,1 @@
-include ':app', ':instrument', ':layer'
+include ':app', ':instrument', ':layer', ':simpledraw', ':myapp'
